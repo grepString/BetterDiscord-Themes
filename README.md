@@ -1,1 +1,3 @@
-# betterDiscord_themes
+# BetterDiscord Themes
+
+https://betterdiscord.net
