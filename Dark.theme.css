@@ -196,7 +196,7 @@ li.channel.channel-text.selected {
     font-size: 15px;
     font-weight: bold;
     font-family: sans-serif;
-    text-shadow: 1.35px .75px 1px black;
+    text-shadow: none;
 }
 
 .account {
@@ -204,7 +204,7 @@ li.channel.channel-text.selected {
 }
 
 .status {
-    border-color: rgba(0,0,0,0.33) !important;
+    border-color: rgba(0,0,0,0) !important;
 }
 
 /* Popout Menu */
